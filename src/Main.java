@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Välkommen till klubbens Register!");
+        System.out.println("Medlemsregister v1.0");
     }
 }
